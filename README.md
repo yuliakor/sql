@@ -1,1 +1,1 @@
-# sql_hw1
+# hometask for the first SQL course homework 
